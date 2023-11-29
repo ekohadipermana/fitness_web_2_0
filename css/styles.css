@@ -17,3 +17,8 @@ main {
     clear: left;
 }
 
+nav ul {
+    list-style-type:none;
+    margin: 0;
+    text-align: right;
+}
