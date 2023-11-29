@@ -25,6 +25,12 @@ main {
     font-size: 1.25em;
 }
 
+#weights, #cardio, #training {
+    width: 29%;
+    float: left;
+    margin: 0 2%;
+}
+
 nav ul {
     list-style-type:none; /* this is to remove the bullet */
     margin: 0;
