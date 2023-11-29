@@ -47,6 +47,14 @@ main {
     padding: 0.5% 1% 2% 0;
 }
 
+#contact {
+    text-align: center;
+}
+
+#contact a {
+    color: #666600;
+    text-decoration: none;
+}
 nav ul {
     list-style-type:none; /* this is to remove the bullet */
     margin: 0;
