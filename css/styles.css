@@ -30,3 +30,11 @@ nav li {
     the font size of the list item text is 1.75 times
     larger than the default font size of the browser */
 }
+
+nav li a {
+    display:block;
+    color: #fff;
+    text-align: center;
+    padding: 0.5em 1em;
+    text-decoration: none; /* to remove the underline */
+}
