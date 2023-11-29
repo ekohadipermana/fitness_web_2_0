@@ -18,7 +18,15 @@ main {
 }
 
 nav ul {
-    list-style-type:none;
+    list-style-type:none; /* this is to remove the bullet */
     margin: 0;
     text-align: right;
+}
+
+nav li {
+    display: inline-block; /* inline block will show the items horizontally
+    instead of vertically */
+    font-size: 1.75em; /* o 1.75em means
+    the font size of the list item text is 1.75 times
+    larger than the default font size of the browser */
 }
