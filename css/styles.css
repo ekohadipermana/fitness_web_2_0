@@ -39,6 +39,14 @@ main {
     padding: 1% 2%;
 }
 
+#exercises dt {
+    font-weight: bold;
+}
+
+#exercises dd {
+    padding: 0.5% 1% 2% 0;
+}
+
 nav ul {
     list-style-type:none; /* this is to remove the bullet */
     margin: 0;
