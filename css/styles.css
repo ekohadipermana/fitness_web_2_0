@@ -47,3 +47,14 @@ nav li a {
     text-decoration: none; /* to remove the underline */
 }
 
+footer p {
+    font-size: 0.75em;
+    text-align: center;
+    color: #fff;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none;
+}
