@@ -67,6 +67,10 @@ main {
     color: #666600;
     text-decoration: none;
 }
+
+.map {
+    border: 8px solid #000;
+}
 nav ul {
     list-style-type:none; /* this is to remove the bullet */
     margin: 0;
