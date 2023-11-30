@@ -86,9 +86,11 @@ nav ul {
 nav li {
     display: inline-block; /* inline block will show the items horizontally
     instead of vertically */
-    font-size: 1.75em; /* o 1.75em means
+    font-size: 1.5em; /* o 1.75em means
     the font size of the list item text is 1.75 times
     larger than the default font size of the browser */
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
 }
 
 nav li a {
